@@ -1,4 +1,4 @@
-package DSA.Array.Exercises;
+
 
 import java.util.Scanner;
 
