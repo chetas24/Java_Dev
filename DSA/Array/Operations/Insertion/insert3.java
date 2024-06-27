@@ -30,6 +30,6 @@ public class insert3 {
             arr[i] = arr[i - 1];
         }
         arr[3 - 1] = val;
-        
+        // incomplete solution because last elements get removed
     }
 }
