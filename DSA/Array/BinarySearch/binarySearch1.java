@@ -29,6 +29,7 @@ public class binarySearch1 {
             int mid = start + (end - start)/2;
 
             if (arr[mid] == k) {
+                
                 System.err.println(mid);
                 return;
             }
