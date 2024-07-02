@@ -8,7 +8,7 @@ public class binarySearch1 {
         // we need to obtain the mid of array so that our search become easy
         // lets first specify our edge cases
         if (arr == null || n <= 0) {
-            System.err.println("Array is empty");
+            System.out.println("Array is empty");
             return;
         }
 
@@ -30,7 +30,7 @@ public class binarySearch1 {
 
             if (arr[mid] == k) {
                 
-                System.err.println(mid);
+                System.out.println(mid);
                 return;
             }
 
