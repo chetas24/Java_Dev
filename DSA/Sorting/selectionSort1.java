@@ -16,7 +16,7 @@ public class selectionSort1 {
             int minidx = i;
             for(int j = i + 1; j < arr.length; j++)
             {
-                if(arr[minidx] > arr[j])
+                if(arr[j] < arr[minidx])
                 {
                     minidx = j;
                 }
