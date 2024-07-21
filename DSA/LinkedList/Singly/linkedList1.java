@@ -8,7 +8,9 @@ public class linkedList1 {
 
     private static class ListNode
     {
+        @SuppressWarnings("unused")
         private int data;  // Generic Type
+        @SuppressWarnings("unused")
         private ListNode next;
 
         public ListNode(int data)

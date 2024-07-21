@@ -4,6 +4,7 @@ public class linkedList {
 
     private ListNode head;
     private ListNode tail;
+    @SuppressWarnings("unused")
     private int size;
     
     public linkedList() {
@@ -42,6 +43,7 @@ public class linkedList {
             this.data = data;
         }
 
+        @SuppressWarnings("unused")
         public ListNode(int data, ListNode next) {
             this.data = data;
             this.next = next;
