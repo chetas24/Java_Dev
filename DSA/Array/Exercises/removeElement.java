@@ -21,7 +21,7 @@ public class removeElement {
 
         int[] arr = {25, 14, 56, 15, 36};
         //int n = arr.length;
-        int eletorem = 56;
+        int eletorem = 2;
         for(int i = 0; i < arr.length; i++)
         {
             System.out.println(arr[i]);
