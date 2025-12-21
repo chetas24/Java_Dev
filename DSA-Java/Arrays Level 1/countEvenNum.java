@@ -1,4 +1,4 @@
-public class countEvenNum
+public class CountEvenNum
 {
     public static void main(String[] args)
     {

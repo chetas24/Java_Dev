@@ -1,4 +1,4 @@
-public class searchTargetNum
+public class SearchTargetNum
 {
     public static void main(String[] args)
     {

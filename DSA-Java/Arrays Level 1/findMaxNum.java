@@ -1,4 +1,4 @@
-public class findMaxNum
+public class FindMaxNum
 {
     public static void main(String[] args)
     {

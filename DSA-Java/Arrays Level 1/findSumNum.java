@@ -1,4 +1,4 @@
-public class findSumNum
+public class FindSumNum
 {
     public static void main(String[] args)
     {
